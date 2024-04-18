@@ -1,14 +1,19 @@
 [
+  {},
   {
     "title": "",
     "links": [
       {
         "text": "Twitter",
-        "url": "https://twitter.com/Oneness_Labs"
+        "url": "https://twitter.com/Oneness_Labs",
+        "icon": "social/tweet",
+        "iconSize": "18px"
       },
       {
         "text": "Discord",
-        "url": "https://discord.gg/onenesslabs"
+        "url": "https://discord.gg/onenesslabs",
+        "icon": "social/discord",
+        "iconSize": "24px"
       }
     ]
   }
